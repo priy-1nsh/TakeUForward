@@ -387,7 +387,7 @@ double x = 10.7;
 int y = (int) x; // 10.7 gets converted to 10
 ```
 
-> Implicit Type Casting works only when the compiler identifies that we are loosing on something, it doesn't work when an integer is converted into a double.
+> Implicit Type Casting works only when the compiler identifies that we are not loosing on something, it doesn't work when an integer is converted into a double.
 
 ---
 
